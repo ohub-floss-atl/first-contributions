@@ -838,6 +838,7 @@ CMBloodMeridian
 - [metalinux91](https://github.com/metalinux91)
 - Marian
 - [Dasha](https://github.com/ya-ya-it)
+- [Niara Patterson] (https://github.com/ninibean)
 - [Phillip Lawniczak](https://github.com/PhillJaySaw)
 - [Przemek Babula](https://github.com/beyb00lsky)
 - [Dorcas](https://github.com/dorcastan)
